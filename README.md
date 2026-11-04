@@ -13,7 +13,7 @@
   <a href="https://www.tiktok.com/@dhanesh1209"><img src="https://img.shields.io/badge/TikTok-@dhanesh1209-3C4245?style=for-the-badge&logo=tiktok&logoColor=DFCDC3" alt="TikTok"/></a>
 </p>
 
-# 💫 About me
+#  About me
 
 I'm a QA lead in Kuala Lumpur.
 
@@ -22,13 +22,13 @@ I started as a QA intern. Then manual testing. Then web and mobile automation. N
 **Are you a manual tester wondering "where do I even start with automation?"**
 Same here, once. So I share what I learned one small step at a time, with code you can actually run.
 
-# 🧭 How I post: Supercharged Steps
+#  How I post: Supercharged Steps
 
 1. **Where it usually breaks** (so you don't lose a weekend on it)
 2. **Try this** (one small thing)
 3. **A demo** (clone it, run it, break it)
 
-# 🚀 Stuff you can run
+#  Stuff you can run
 
 <table>
   <tr>
@@ -49,11 +49,11 @@ Same here, once. So I share what I learned one small step at a time, with code y
 
 Both are tiny toy projects I wrote from scratch. No work code in there.
 
-# 💻 Tech stack (what's in these demos)
+# Tech stack (what's in these demos)
 
 ![Playwright](https://img.shields.io/badge/-Playwright-3C4245?style=for-the-badge&logo=playwright&logoColor=93B3B4) ![TypeScript](https://img.shields.io/badge/-TypeScript-3C4245?style=for-the-badge&logo=typescript&logoColor=93B3B4) ![JavaScript](https://img.shields.io/badge/-JavaScript-3C4245?style=for-the-badge&logo=javascript&logoColor=93B3B4) ![Node.js](https://img.shields.io/badge/-Node.js-3C4245?style=for-the-badge&logo=nodedotjs&logoColor=93B3B4) ![Git](https://img.shields.io/badge/-Git-3C4245?style=for-the-badge&logo=git&logoColor=93B3B4) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-3C4245?style=for-the-badge&logo=githubactions&logoColor=93B3B4)
 
-# 📊 GitHub stats
+# GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=dhanesh1209&hide_border=true&bg_color=3C4245&title_color=93B3B4&text_color=DFCDC3&icon_color=93B3B4" alt="GitHub stats" height="160"/>
